@@ -1,0 +1,16 @@
+<group>
+	<planet_1>
+		<speed>0.872449</speed>
+		<distance>22.9592</distance>
+		<R>255</R>
+		<G>255</G>
+		<B>255</B>
+	</planet_1>
+	<planet_2>
+		<speed>3.58163</speed>
+		<distance>82.6531</distance>
+		<R>255</R>
+		<G>255</G>
+		<B>255</B>
+	</planet_2>
+</group>

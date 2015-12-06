@@ -57,6 +57,7 @@ void ofApp::draw()
     
     if (gameOn == false) {
         ofDrawBitmapString("Game Over", ofGetWidth()/2-20, ofGetHeight()/2);
+        ofDrawBitmapString("Press R to restart", ofGetWidth()/2-55, ofGetHeight()/2+20);
     }
     
         ofNoFill();
